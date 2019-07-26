@@ -52,21 +52,18 @@ This guide is intended for any UKCloud Portal user who wants to use *My Calls* t
 
     ![My Calls login page](images/ptl-mycalls-login.png)
 
-4. The *My Calls* home page is divided into four main areas:
+4. The *My Calls* home page shows a simple view of all tickets that have been raised.
 
     ![My Calls home page](images/ptl-mycalls-home.png)
 
-    - **Outstanding Items** lists the support tickets (incident and service requests) that you can view, depending on your permissions. You can also see support tickets by selecting the **My Items** tab.
+My Tickets lists the support tickets (incident and service requests) that you can view, depending on your permissions. These are listed with the newest first. You can use the search tool to help find what you're looking for and use filter options to find tickets with a particular status or date. 
 
-    - **Report List** provides customer related reporting around tickets (coming soon).
+You can raise new Incidents and Request using the 'New Incident' and 'New Service Request' buttons. 
 
-    - **Log an Incident using Template** provides templates for you to use to raise tickets. You can also see incident templates by selecting the **Service Catalog** tab.
-
-    - **Top 5 Service Catalogue Offerings** lists the most popular service catalogue offerings to provide a quick way to raise a request. To see all request offerings, select the **Service Catalog** tab.
-
+You can access the full Service Catalog to find specific Incident and Sercvice Requests templates for you to use to raise tickets. 
 ## Raising a support ticket
 
-If you want to request a new service, make changes to an existing service or request information, use the Service Catalogue to raise a service request. If you need to notify UKCloud of an incident, use an incident template to raise an incident.
+If you want to raise a request or an incident, use the Service Catalogue. 
 
 1. In *My Calls*, select the **Service Catalog** tab.
 
@@ -74,39 +71,53 @@ If you want to request a new service, make changes to an existing service or req
 
 2. Search the *Service Catalog* for the request offering or incident type you'd like to raise. You can browse by product type or most popular or enter keywords to search for.
 
+
     > [!TIP]
     > There is a generic incident template if you cannot find anything that matches what you're looking for.
 
+## Raising an incident ticket
+1.Select the incident form that you want to use (for example, VMware).
     ![Service Catalog tab](images/ptl-mycalls-service-catalogue.png)
 
-3. Select the request or incident form that you want to use.
+2. Complete the fields in the form with as much information as possible, includinng any mandatory fields which are marked with a red asterisk. This is so that our Support Teams can address your ticket promptly.
 
-4. Complete the fields in the form with as much information as possible so that our Support Team can address your ticket promptly.
+3. When you're done, click **Save Incident**
 
-5. When you're done, click **Review & Submit**.
 
     ![Review & Submit button in request form](images/ptl-mycalls-request-submit.png)
 
     > [!NOTE]
     > You're automatically subscribed to any tickets that you create.
 
-## Monitoring an existing support ticket
+## Raising a service request ticket
 
-After raising a support ticket, you can view the ticket to monitor progress, add more information, add attachments, close or cancel the ticket.
+1. Select the service request form that you want to use.
+
+2. Complete the fields in the form with as much information as possible, including any mandatory fields which are marked with a red asterisk. this is so that our support team can address your ticket promptly.
+
+3. When you're done. click **Review & Submit.** You can then edit the information in your request or submit it.
 
 > [!NOTE]
-> The actions you can perform on a ticket depend on your Support permissions. You will always be able to update support tickets that you have raised. If you have the **Account Tickets** or **My Calls Admin** permissions, you can also view and edit tickets raised by other users on the account.
+> You're automatically subscribed to any ticket that you create. 
 
-1. In *My Calls*, select the **My Items** tab.
+## Accessing an Existing support ticket
+
+After raising a support ticket, you can view the ticket to monitor progress, add more information, add attatchments, close or cancel the ticket.
+
+> .[!NOTE]
+>The actions you can perform on ticket depend on your Support permissions. You will always be able to update support tickets that you have raised. If you have the **Account Tickets** or **My Calls Admin** permissions, you can also view and edit tickets raised by other users on the account. 
+
+1. Log into MY Calls and go into the home page.
 
     ![The My Items tab in My Calls](images/ptl-mycalls-tab-items.png)
 
-2. Find the ticket you want to view either by browsing through the list of tickets or by using the **Search** field.
+2.	Find the ticket you want to view either by browsing through the list of tickets. These are listed with the newest first. You can use the search tool to help find what you’re looking for and use filter options to find tickets with a particular status or date. You can also filter by incident and request ticket types. 
 
     ![My Items tab](images/ptl-mycalls-my-items.png)
 
-    > [!TIP]
-    > You can also filter by incident (Issue), request or active tickets.
+## Updating an exisiting Service request ticket
+
+1. When you find your service request ticket, double click to open it. The top of the request details who logged the ticket, ticket status, service that is being requested, the summary, when it was raised and last modified. 
 
 3. When you find your ticket, click the **Summary**.
 
